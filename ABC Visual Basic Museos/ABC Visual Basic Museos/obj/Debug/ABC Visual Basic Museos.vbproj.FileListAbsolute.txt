@@ -1,0 +1,17 @@
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\bin\Debug\ABC Visual Basic Museos.exe.config
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\bin\Debug\ABC Visual Basic Museos.exe
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\bin\Debug\ABC Visual Basic Museos.pdb
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\bin\Debug\ABC Visual Basic Museos.xml
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC Visual Basic Museos.vbproj.AssemblyReference.cache
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC Visual Basic Museos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC_Visual_Basic_Museos.Form1.resources
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC_Visual_Basic_Museos.Form2.resources
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC_Visual_Basic_Museos.Form3.resources
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC_Visual_Basic_Museos.Form4.resources
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC_Visual_Basic_Museos.Form5.resources
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC_Visual_Basic_Museos.Resources.resources
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC Visual Basic Museos.vbproj.GenerateResource.cache
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC Visual Basic Museos.vbproj.CoreCompileInputs.cache
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC Visual Basic Museos.exe
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC Visual Basic Museos.xml
+C:\Users\lesly\source\repos\ABC Visual Basic Museos\ABC Visual Basic Museos\obj\Debug\ABC Visual Basic Museos.pdb
